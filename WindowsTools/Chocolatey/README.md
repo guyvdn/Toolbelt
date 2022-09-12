@@ -1,6 +1,6 @@
 # Chocolatey
 
-Chocolatey is a software management solution that allows you to manage 100% of your software, anywhere you have Windows, with any endpoint management tool.
+[Chocolatey](https://chocolatey.org) is a software management solution that allows you to manage 100% of your software, anywhere you have Windows, with any endpoint management tool.
 
 ## Installation
 
