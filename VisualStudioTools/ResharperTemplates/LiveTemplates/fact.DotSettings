@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A9D82682C65F746A10E91F7BE9CF4E5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A9D82682C65F746A10E91F7BE9CF4E5/Shortcut/@EntryValue">fact</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A9D82682C65F746A10E91F7BE9CF4E5/Text/@EntryValue">[Fact]&#xD;
+public void $METHOD$()&#xD;
+{$END$}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A9D82682C65F746A10E91F7BE9CF4E5/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A9D82682C65F746A10E91F7BE9CF4E5/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A9D82682C65F746A10E91F7BE9CF4E5/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A9D82682C65F746A10E91F7BE9CF4E5/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A9D82682C65F746A10E91F7BE9CF4E5/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/Type/@EntryValue">InCSharpTypeMember</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A9D82682C65F746A10E91F7BE9CF4E5/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A9D82682C65F746A10E91F7BE9CF4E5/Field/=METHOD/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A9D82682C65F746A10E91F7BE9CF4E5/Field/=METHOD/Order/@EntryValue">0</s:Int64></wpf:ResourceDictionary>

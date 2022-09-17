@@ -6,5 +6,5 @@
 ## Create Scheduled Task to run script on startup
 
 ```shell
-schtasks /create /tn "Start AutoHotkey script SpaceToUnderscore" /tr 'C:\Program Files\AutoHotkey\AutoHotkey C:\Tools\SpaceToUnderscore.ahk' /sc onstart /RL HIGHEST
+schtasks /create /tn "Start AutoHotkey script SpaceToUnderscore" /tr 'C:\Program Files\AutoHotkey\AutoHotkey C:\Tools\SpaceToUnderscore.ahk' /sc onlogon /RL HIGHEST
 ```

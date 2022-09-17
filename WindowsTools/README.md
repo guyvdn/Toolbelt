@@ -20,9 +20,10 @@
 
 * [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) set of utilities for power users to tune and streamline their Windows experience for greater productivity
 
-* [Simplenote](https://simplenote.com/)  all your notes, synced on all your devices
+* [Simplenote](https://simplenote.com/) all your notes, synced on all your devices
 
 * [DevToys](https://docs.microsoft.com/en-us/windows/powertoys/) Swiss Army knife for developers
 
-* [Seq](https://datalust.co/seq) Machine data, for humansd
+* [Seq](https://datalust.co/seq) Machine data, for humans
 
+* [TaskbarX](https://chrisandriessen.nl/taskbarx) TaskbarX will give you an original Windows dock like feel. The icons will move to the center or user given position
