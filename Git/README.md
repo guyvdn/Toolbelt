@@ -13,6 +13,7 @@ path = %USERPROFILE%/.gitconfig
 	fm = fetch origin master:master
 	fn = fetch origin main:main
 	mm = merge master
+	mn = merge main
 	branches = branch
 	unstage = reset HEAD --
 	pushit = push --no-verify
