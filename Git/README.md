@@ -7,17 +7,22 @@ path = %USERPROFILE%/.gitconfig
 	name = Your Name Here
 	email = Your Email Here
 [alias]
-	s = status
 	aa = add --all
-	h = log --graph --all --pretty=format:'%C(auto)%d %s %C(yellow)%ad %C(cyan)<%an> %C(green)%h' --date='format-local:%Y-%m-%d %H:%M:%S'
+	aliases = config --get-regexp alias
+	branches = branch
+	cm = commit -m
+	configure = config --global --edit
 	fm = fetch origin master:master
 	fn = fetch origin main:main
+	h = log --graph --all --pretty=format:'%C(auto)%d %s %C(yellow)%ad %C(cyan)<%an> %C(green)%h' --date='format-local:%Y-%m-%d %H:%M:%S'
+	login = git config credential.helper store
 	mm = merge master
 	mn = merge main
-	branches = branch
-	unstage = reset HEAD --
 	pushit = push --no-verify
 	pushup = push -u origin HEAD
+	s = status
+	uncommit = reset --soft HEAD^
+	unstage = reset HEAD --
 [merge]
 	tool = kdiff3
 [mergetool "kdiff3"]
