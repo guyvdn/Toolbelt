@@ -39,6 +39,13 @@ path = %USERPROFILE%/.gitconfig
 	keepBackup = false
 ```
 
+## Worktree
+
+- git worktree add -b emergency-fix ../temp master <!-- .element: class="fragment" -->
+- fix things <!-- .element: class="fragment" -->
+- git worktree remove ../temp <!-- .element: class="fragment" -->
+
+
 ## Other cool stuff
 
 https://www.npmjs.com/package/git-removed-branches
