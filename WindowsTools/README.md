@@ -27,3 +27,5 @@
 * [Seq](https://datalust.co/seq) Machine data, for humans
 
 * [TaskbarX](https://chrisandriessen.nl/taskbarx) TaskbarX will give you an original Windows dock like feel. The icons will move to the center or user given position
+
+* [WindDirStat](https://windirstat.net/) is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows
