@@ -20,6 +20,7 @@ path = %USERPROFILE%/.gitconfig
 	mn = merge main
 	pushit = push --no-verify
 	pushup = push -u origin HEAD
+	pushitup = push -u origin HEAD --no-verify
 	s = status
 	uncommit = reset --soft HEAD^
 	unstage = reset HEAD --
